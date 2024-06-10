@@ -1,9 +1,11 @@
-Hi there 👋🏼,
+Hey there! 👋🏼
 
-I'm Melissa, a junior front-end developer with a background in economics. I bring analytical thinking, a focus on efficiency, and strategic thinking to my projects by being recursive in the solutions I come up with and implement.
+I'm a junior front-end developer with a background in economics. I love bringing analytical thinking and efficiency to my projects, always finding clever solutions to problems.
 
-I'm a calm, **organized** person who is willing to listen, with a great natural curiosity for learning and acquiring new knowledge and skills. Additionally, I have experience working in teams, so I understand and value collaboration and the exchange of ideas.
+I'm a calm, organized person who loves to listen and learn. I'm super curious and always on the lookout to pick up new skills. I also really enjoy working in teams and sharing ideas.
 
-My recent projects have involved **Next.js**, **TypeScript**, and **Tailwind CSS**, where I've enjoyed bringing designs to life and crafting seamless user interfaces. While I'm still exploring the vast world of development, my enthusiasm for learning and personal growth propels me to embrace new challenges with determination and creativity.
+Lately, I've been diving into **Next.js**, **TypeScript** and **Tailwind CSS**, and I've had a lot of fun bringing designs to life with seamless user interfaces. I'm still exploring the vast world of development, but my enthusiasm for learning keeps me motivated to take on new challenges with creativity and determination.
 
-I'm also no stranger to version control systems like **GitHub**, and I've dabbled in **Angular**, adding to my toolkit of skills.
+I'm pretty comfortable with **GitHub** and have explored **Angular** too, adding to my growing skillset.
+
+Can't wait to see what comes next!
