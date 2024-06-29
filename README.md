@@ -1,7 +1,14 @@
-Hey there! 👋🏼
+### Hi there 👋🏼, I'm Melissa
 
-I'm a junior front-end developer with a background in economics.
+# Junior Front-end Developer
 
-I'm a calm, organized person who loves to listen and learn. I'm super curious and always on the lookout to pick up new skills. 
+I'm a self-taught developer with a background in economics who started coding two years ago. 
 
-Lately, I've been diving into **Next.js**, **TypeScript** and **Tailwind CSS**, and I've had a lot of fun bringing designs to life with seamless user interfaces. I'm still exploring the vast world of development, but my enthusiasm for learning keeps me motivated to take on new challenges with creativity and determination.
+I found my passion for software development after my first `console.log()`😉 and since then, I have been immersed in learning and building web applications. 
+
+Lately, I've been diving into **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+Can't wait to see what comes next!
+
+## Skills
+
