@@ -1,6 +1,6 @@
 ### Hi there 👋🏼, I'm Melissa
 
-# Junior Front-end Developer
+# Front-end Developer
 
 I'm a self-taught developer with a background in economics who started coding two years ago. 
 
