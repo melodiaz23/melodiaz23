@@ -6,9 +6,9 @@ I’m a front-end developer with a background in economics, passionate about bui
 
 I'm curious, calm, and always learning, and I enjoy working collaboratively, exchanging ideas, and exploring new technologies.
 
-Lately, I’ve been learning Java to expand my stack and work towards becoming a full-stack developer.
+Lately, I’ve been learning **Java** to expand my stack and work towards becoming a full-stack developer.
 
-Some of the technologies I’m comfortable with include React, Next.js, TypeScript, and Tailwind CSS.
+Some of the technologies I’m comfortable with include **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
 ***
 
