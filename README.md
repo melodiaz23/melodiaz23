@@ -1,18 +1,22 @@
 ### Hi there 👋🏼, I'm Melissa
 
-# Front-end Developer
+# Software Developer
 
-I'm a self-taught developer with a background in economics. 
+I’m a front-end developer with a background in economics, passionate about building web applications.
 
-I love learning and building web applications.
+I'm curious, calm, and always learning, and I enjoy working collaboratively, exchanging ideas, and exploring new technologies.
 
-Lately, I've been diving into **Next.js**, **TypeScript**, and **Tailwind CSS**.
+Lately, I’ve been learning Java to expand my stack and work towards becoming a full-stack developer.
+
+Some of the technologies I’m comfortable with include React, Next.js, TypeScript, and Tailwind CSS.
 
 ***
 
-- I'm based in Medellín, Colombia. 
-- You can contact me at meli.diaz23@gmail.com
-- I'm learning Java.
+- 🌍 Based in Medellín, Colombia
+- 📫 You can reach me at meli.diaz23@gmail.com
+- 🌱 Always learning and growing.
+
+***
 
 ## Skills
 
@@ -25,3 +29,9 @@ Lately, I've been diving into **Next.js**, **TypeScript**, and **Tailwind CSS**.
   <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/melodiaz23/melodiaz23/5e83d7eef15d517bcf46cebe2a6c8f3ed02a257d/icons/typescript-colored.svg" alt="TypeScript" width="50" height="50"/></a>
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/melodiaz23/melodiaz23/5e83d7eef15d517bcf46cebe2a6c8f3ed02a257d/icons/git-colored.svg" alt="Git" width="50" height="50"/></a>
 </p>
+
+## Notes 
+
+* [Backend with Java (ES)](https://github.com/melodiaz23/notas-backend-con-java)
+* [Learning JS (EN)](https://github.com/melodiaz23/learning-js)
+* [Learning REACT (EN)](https://github.com/melodiaz23/learning-react)
