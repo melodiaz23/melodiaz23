@@ -10,7 +10,7 @@ Some of the technologies I’m comfortable with include **React**, **Next.js**, 
 
 - 🌍 Based in Medellín, Colombia
 - 🌱 Always learning and growing.
-- 👩‍💻 Check my portfolio at: melissas-portfolio.vercel.app/en
+- 👩‍💻 Check my portfolio at: [melissas-portfolio.vercel.app/en](https://melissas-portfolio.vercel.app/en)
 
 ## Tech Stack
 
