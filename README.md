@@ -10,13 +10,13 @@ Lately, I’ve been learning **Java** to expand my stack and work towards becomi
 
 Some of the technologies I’m comfortable with include **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-***
+---
 
 - 🌍 Based in Medellín, Colombia
 - 📫 You can reach me at meli.diaz23@gmail.com
 - 🌱 Always learning and growing.
 
-***
+---
 
 ## Skills
 
@@ -30,8 +30,8 @@ Some of the technologies I’m comfortable with include **React**, **Next.js**, 
   <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/melodiaz23/melodiaz23/5e83d7eef15d517bcf46cebe2a6c8f3ed02a257d/icons/git-colored.svg" alt="Git" width="50" height="50"/></a>
 </p>
 
-## Notes 
+## Notes
 
-* [Backend with Java (ES)](https://github.com/melodiaz23/notas-backend-con-java)
-* [Learning JS (EN)](https://github.com/melodiaz23/learning-js)
-* [Learning REACT (EN)](https://github.com/melodiaz23/learning-react)
+- [Backend with Java (ES)](https://github.com/melodiaz23/notas-backend-con-java)
+- [Learning JS (EN)](https://github.com/melodiaz23/learning-js)
+- [Learning REACT (EN)](https://github.com/melodiaz23/learning-react)
