@@ -2,11 +2,9 @@
 
 I’m a front-end developer with a background in economics, passionate about building web applications.
 
-I'm curious, calm, and always learning, and I enjoy working collaboratively, exchanging ideas, and exploring new technologies.
-
 Lately, I’ve been learning **Java** to expand my stack and work towards becoming a full-stack developer.
 
-Some of the technologies I’m comfortable with include **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
+Some of the technologies I’m comfortable with include **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
 
 - 🌍 Based in Medellín, Colombia
 - 🌱 Always learning and growing.
