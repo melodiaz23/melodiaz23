@@ -1,6 +1,6 @@
 ## Hi there 👋🏼, I'm Melissa
 
-I’m a front-end developer with a background in economics, passionate about building web applications.
+I’m a software developer with a background in economics, passionate about building web applications.
 
 Lately, I’ve been learning **Java** to expand my stack and work towards becoming a full-stack developer.
 
